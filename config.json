@@ -1,0 +1,5 @@
+{
+    "url_base": "/",
+    "min_count": 20,
+    "max_count": 50
+}
