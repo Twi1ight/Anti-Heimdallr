@@ -1,6 +1,6 @@
 # Anti-Heimdallr
 
-《孙子兵法》有云：**兵者，诡道也。**故能而示之不能，用而示之不用，近而示之远，远而示之近。
+《孙子兵法》有云：**兵者，诡道也。** 故能而示之不能，用而示之不用，近而示之远，远而示之近。
 
 利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之，攻其无备，出其不意。
 
@@ -28,7 +28,6 @@ Heimdallr的规则实际上都在[data.js](https://github.com/Ghr07h/Heimdallr/b
 
 ```json
 [
-  ...
   {
         rulename: "h114_heimdallr_domain_url_5",
         type: 4,
@@ -42,8 +41,7 @@ Heimdallr的规则实际上都在[data.js](https://github.com/Ghr07h/Heimdallr/b
         commandments:"敏感域名请求: 百度接口6-百度教育接口",
         ruleposition: 1,
         rulecontent: /easylearn.baidu.com/im
-    },
-  ...
+    }
 ]
 ```
 
