@@ -26,7 +26,7 @@ Heimdallr的规则实际上都在[data.js](https://github.com/Ghr07h/Heimdallr/b
 
 比如：
 
-```json
+```javascript
 [
   {
         rulename: "h114_heimdallr_domain_url_5",
